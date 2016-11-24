@@ -25,7 +25,7 @@
 }
 
 body {
-  background-image: url(/img/main-bg.jpeg);
+  background-image: url(./img/main-bg.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Bangers', cursive;
